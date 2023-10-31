@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Barry Tang
-- 👀 I’m interested in Physics, Maths and Computer Science
-- 🌱 I’m currently learning a lot of stuffs!! In particular, I'm learning quantum computing on Qiskit!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Computer Science, Physics, Maths
+- 
+
 
 <!---
 TYHCL/TYHCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
